@@ -13,5 +13,6 @@
 Milestones:
 1. May 20: Pre-review version of paper 
 2. May 27: Review
-3. June 3: Final Presentation
-4. June 3: Final Submission of Paper
+3. May 29: Submission of Final Slides
+4. June 3: Final Presentation
+5. June 3: Final Submission of Paper
