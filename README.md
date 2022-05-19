@@ -1,4 +1,4 @@
-# Multiple_Regression
+# Multiple_and_Polynomial_Regression
 Deep_Learning_Module_Autonomous_Systems
 Necessary Mathematical Basics.
 Formal (mathematical) Description of the Topic.
